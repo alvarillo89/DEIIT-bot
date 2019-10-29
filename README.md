@@ -1,3 +1,5 @@
-# Plantilla del curso programación para QA
+# DEIIT-BOT
 
-Plantilla para el [curso de desarrollo para QA](https://jj.github.io/curso-tdd)
+Un bot de Telegram que permita consultar los apuntes disponibles almacenados en el repositorio de la Delegación de Estudiantes de la ETSIIT
+
+Este proyecto va a estar implementado en **Raku**.
