@@ -1,5 +1,4 @@
 {
-    "lenguaje" : "Raku",
-    "build" : "zef"
-    
-  }
+  "lenguaje": "Python",
+  "build": "invoke"  
+}
