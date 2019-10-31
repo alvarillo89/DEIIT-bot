@@ -1,3 +1,7 @@
-language: minimal
+language: python
 
-script: /bin/true
+python:
+  - "3.6.8"
+
+script:
+  - invoke test
