@@ -1,4 +1,4 @@
-[![Build Status](https://www.travis-ci.com/alvarillo89/DEIIT-bot.svg?branch=master)](https://www.travis-ci.com/alvarillo89/DEIIT-bot)
+[![Build Status](https://travis-ci.org/alvarillo89/DEIIT-bot.svg?branch=master)](https://travis-ci.org/alvarillo89/DEIIT-bot)
 
 # DEIIT-BOT
 
