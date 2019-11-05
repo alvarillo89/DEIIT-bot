@@ -42,7 +42,7 @@ def test_message():
 
 
 def test_dependecy_injection():
-    sample_subject = "CC"
+    sample_subject = "IV"
 
     exam_list = ExamList(sample_subject, sample_exams, dw_list)
     exam_json = ExamList(sample_subject, sample_exams, dw_json)
