@@ -25,7 +25,7 @@ result = """Examenes de la asignatura IV
 
 dw_list = DataWrapperList()
 dw_json = DataWrapperJSON()
-dw_json.load_subject("../data/subjects.json")
+dw_json.load_subject("data/subjects.json")
 
 def test_exception():
     sample_wrong_subject = "NAT"
@@ -42,7 +42,7 @@ def test_message():
 
 
 def test_dependecy_injection():
-    sample_subject = "CC"
+    sample_subject = "IV"
 
     exam_list = ExamList(sample_subject, sample_exams, dw_list)
     exam_json = ExamList(sample_subject, sample_exams, dw_json)

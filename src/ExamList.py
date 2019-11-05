@@ -1,5 +1,3 @@
-from DataWrapper import DataWrapper
-
 class ExamList:
     def __init__(self, subject_name, exams, data_wrapper):
         self.data_wrapper = data_wrapper
