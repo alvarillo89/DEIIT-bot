@@ -1,8 +1,8 @@
 from DataWrapper import DataWrapper
 
 class ExamList:
-    def __init__(self, subject_name, exams):
-        self.data_wrapper = DataWrapper()
+    def __init__(self, subject_name, exams, data_wrapper):
+        self.data_wrapper = data_wrapper
         
         if not subject_name in self.data_wrapper.subjects:
             raise ValueError("Unknown subject")

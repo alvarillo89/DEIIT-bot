@@ -1,4 +1,4 @@
-class DataWrapper:
+class DataWrapperList:
     def __init__(self):
         self.subjects = [
             "CAL",
