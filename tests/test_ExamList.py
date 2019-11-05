@@ -25,7 +25,7 @@ result = """Examenes de la asignatura IV
 
 dw_list = DataWrapperList()
 dw_json = DataWrapperJSON()
-dw_json.load_subject("../data/subjects.json")
+dw_json.load_subject("data/subjects.json")
 
 def test_exception():
     sample_wrong_subject = "NAT"
