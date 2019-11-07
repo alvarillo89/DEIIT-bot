@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/alvarillo89/DEIIT-bot.svg?branch=master)](https://travis-ci.org/alvarillo89/DEIIT-bot)
 [![codecov](https://codecov.io/gh/alvarillo89/DEIIT-bot/branch/master/graph/badge.svg)](https://codecov.io/gh/alvarillo89/DEIIT-bot)
+[![DevQAGRX](https://img.shields.io/badge/DevQAGRX-blueviolet?style=for-the-badge&logo=Git)](https://github.com/JJ/curso-tdd)
 
 # DEIIT-BOT
 
