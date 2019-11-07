@@ -9,6 +9,7 @@ install:
 
 script:
   - invoke test
+  - pytest --cov=./
 
 after_success:
   - codecov
